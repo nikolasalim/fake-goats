@@ -1,0 +1,29 @@
+{
+  "goats": [
+    {
+      "name": "beeeeeth",
+      "sound": "beeeeeee",
+      "image": "https://placegoat.com/200/200"
+    },
+    {
+      "name": "biiiiiiii",
+      "sound": "biiiiiiii",
+      "image": "https://placegoat.com/200/200"
+    },
+    {
+      "name": "baaaaaa",
+      "sound": "baaaaaa",
+      "image": "https://placegoat.com/200/200"
+    },
+    {
+      "name": "booooooo",
+      "sound": "booooooo",
+      "image": "https://placegoat.com/200/200"
+    },
+    {
+      "name": "buuuuuu",
+      "sound": "buuuuuuu",
+      "image": "https://placegoat.com/200/200"
+    }
+  ]
+}
