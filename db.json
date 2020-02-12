@@ -1,71 +1,79 @@
 {
   "goats": [
     {
+      "id": 1,
       "name": "beeeeeth",
       "sound": "beeeeeee",
       "image": "https://i.pinimg.com/originals/eb/06/e1/eb06e1358dff70ff1c9bc31285471065.jpg"
     },
     {
+      "id": 2,
       "name": "biiiiiiii",
       "sound": "biiiiiiii",
       "image": "https://i.pinimg.com/originals/5b/87/b4/5b87b4a3bd5a46ce443c17080be77588.jpg"
     },
     {
+      "id": 3,
       "name": "baaaaaa",
       "sound": "baaaaaa",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBqSAg0MToTR2P538Pa0Ef7hSOo830UisHYv-XIwtwG4v8S7D8"
     },
     {
+      "id": 4,
       "name": "beeeeeth",
       "sound": "beeeeeee",
       "image": "https://bit.ly/2SuzoZ6"
     },
     {
+      "id": 5,
       "name": "biiiiiiii",
       "sound": "biiiiiiii",
       "image": "https://bit.ly/2vmXJZ5"
     },
     {
+      "id": 5,
       "name": "baaaaaa",
       "sound": "baaaaaa",
       "image": "https://bit.ly/2w6QOUd"
     },
     {
+      "id": 6,
       "name": "beeeeeth",
       "sound": "beeeeeee",
       "image": "https://bit.ly/2uBHt6v"
     },
     {
+      "id": 6,
       "name": "biiiiiiii",
       "sound": "biiiiiiii",
       "image": "https://bit.ly/2UG8i3Y"
     },
     {
+      "id": 7,
       "name": "baaaaaa",
       "sound": "baaaaaa",
       "image": "https://bit.ly/2Hf5e78"
     },
     {
+      "id": 8,
       "name": "beeeeeth",
       "sound": "beeeeeee",
       "image": "https://bit.ly/2OLUoJS"
     },
     {
+      "id": 9,
       "name": "biiiiiiii",
       "sound": "biiiiiiii",
       "image": "https://bit.ly/3bw3moz"
     },
     {
-      "name": "baaaaaa",
-      "sound": "baaaaaa",
-      "image": "https://bit.ly/3bw3moz"
-    },
-    {
+      "id": 10,
       "name": "baaaaaa",
       "sound": "baaaaaa",
       "image": "https://bit.ly/38plyhK"
     },
     {
+      "id": 11,
       "name": "baaaaaa",
       "sound": "baaaaaa",
       "image": "https://bit.ly/3btmx21"
